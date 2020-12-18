@@ -7,14 +7,13 @@ A Simple, Fast, Minimalist Audio Player
 * Audio Files to play (.mp3)
 ## Installation
 
-'''bash
-git clone https://github.com/Kody-K/PyPlayer
-cd PyPlayer
-python3 -m pip install -r requirements.txt
-'''
+>git clone https://github.com/Kody-K/PyPlayer
+
+>cd PyPlayer
+
+>python3 -m pip install -r requirements.txt
 
 ## Usage
 
-'''bash
-python3 pyplayer.py
-'''
+>python3 pyplayer.py
+
