@@ -17,3 +17,7 @@ A Simple, Fast, Minimalist Audio Player
 
 >python3 pyplayer.py
 
+For Version 2.0
+
+>python3 pyplayer-2.0.py
+
