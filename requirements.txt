@@ -1,2 +1,3 @@
 playsound 
 tkinter
+pygame
